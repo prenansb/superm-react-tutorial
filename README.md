@@ -34,9 +34,7 @@
 
 ## Certificate
 
-<div style="border-radius: 16px">
-   <img style="height: 250px" src="https://github.com/prenansb/superm-react-tutorial/blob/main/certificate.png">
-</div>
+<img style="height: 250px" src="https://github.com/prenansb/superm-react-tutorial/blob/main/certificate.png">
 
 ## Contact
 
