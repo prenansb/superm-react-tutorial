@@ -16,7 +16,7 @@
 1. Navigate to the folder:
 
    ```shell
-   $ cd upload-ai && cd upload web
+   $ cd superm-react-tutorial
    ```
 
 2. Install dependencies:
