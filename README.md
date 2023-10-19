@@ -31,6 +31,12 @@
    $ pnpm run dev
    ```
 
+
+## Certificate
+
+<img style="height: 250px" src="https://github.com/prenansb/superm-react-tutorial/blob/main/certificate.png">
+
+
 ## Contact
 
 Pedro Renan - Software Developer
