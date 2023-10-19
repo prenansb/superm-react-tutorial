@@ -13,19 +13,25 @@
 
 ## How to Run:
 
-1. Navigate to the folder:
+1. Clone the repository:
+
+   ```shell
+   $ git clone https://github.com/prenansb/superm-react-tutorial.git
+   ```
+
+2. Navigate to the folder:
 
    ```shell
    $ cd superm-react-tutorial
    ```
 
-2. Install dependencies:
+3. Install dependencies:
 
    ```shell
    $ pnpm install
    ```
 
-3. Start the application:
+4. Start the application:
 
    ```shell
    $ pnpm run dev
