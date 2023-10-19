@@ -31,8 +31,11 @@
    $ pnpm run dev
    ```
 
-## Author
+## Contact
 
 Pedro Renan - Software Developer
 
-[Linkedin](https://www.linkedin.com/in/pedro-renan/) | [E-mail](mailto:prenansb@gmail.com)
+<div style="display: flex;">
+  <a href="https://www.linkedin.com/in/pedro-renan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-right: 2vw" target="_blank"></a>
+  <a href="mailto:prenansb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" style="margin-right: 2vw""></a>
+</div>
