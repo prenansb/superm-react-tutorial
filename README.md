@@ -2,7 +2,7 @@
 
 `SuperM` is an online supermarket app with stripe checkout integration.
 
-<img src="https://github.com/prenansb/superm-react-tutorial/blob/main/superm.gif" width=100%>
+<img src="https://github.com/prenansb/superm-react-tutorial/blob/main/superm.gif" width=50%>
 
 ## Technologies:
 - [React](https://reactjs.org/)
